@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1682320054 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\main.cpp
+	"class.h"
+	"game.h"
+	"pleiku.h"
+
+1681436875 d:\test_sdl\teststl\testsdl\banhmi.cpp\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<time.h>
+	<conio.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1680966478 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\game.cpp
+	"game.h"
+
+1681994062 d:\test_sdl\teststl\testsdl\banhmi.cpp\class.h
+	"game.h"
+
+1681994028 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\class.cpp
+	"class.h"
+
+1680929992 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\play.cpp
+	"play.h"
+
+1680930544 d:\test_sdl\teststl\testsdl\banhmi.cpp\play.h
+	"game.h"
+	"class.h"
+
+1682232293 d:\test_sdl\teststl\testsdl\banhmi.cpp\menu.h
+	"class.h"
+
+1682232230 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\menu.cpp
+	"menu.h"
+
+1682475635 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\pleiku.cpp
+	"pleiku.h"
+
+1682475346 d:\test_sdl\teststl\testsdl\banhmi.cpp\pleiku.h
+	"game.h"
+	"class.h"
+	"chicken.h"
+	"egg.h"
+	"ImpTimer.h"
+	"drumStick.h"
+	"menu.h"
+	"textObject.h"
+
+1682321479 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\chicken.cpp
+	"chicken.h"
+
+1682317743 d:\test_sdl\teststl\testsdl\banhmi.cpp\chicken.h
+	"class.h"
+	"egg.h"
+
+1681886385 d:\test_sdl\teststl\testsdl\banhmi.cpp\egg.h
+	"class.h"
+
+1681886375 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\egg.cpp
+	"egg.h"
+
+1681434150 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\spaceship.cpp
+
+1681659449 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\imptimer.cpp
+	"ImpTimer.h"
+	"game.h"
+
+1681659441 d:\test_sdl\teststl\testsdl\banhmi.cpp\imptimer.h
+
+1681692170 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\drumstick.cpp
+	"drumStick.h"
+
+1681947714 d:\test_sdl\teststl\testsdl\banhmi.cpp\drumstick.h
+	"class.h"
+	"chicken.h"
+
+1682382156 d:\test_sdl\teststl\testsdl\banhmi.cpp\textobject.h
+	"game.h"
+
